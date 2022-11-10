@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.fasttrack22.ProductTestCase" duration-ms="66767" started-at="2022-09-29T17:01:23 IST" finished-at="2022-09-29T17:02:30 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="66767" started-at="2022-09-29T17:01:23 IST" finished-at="2022-09-29T17:02:30 IST">
+      <class name="com.fasttrack22.ProductTestCase">
+        <test-method status="PASS" signature="setUP(java.lang.String)[pri:0, instance:com.fasttrack22.ProductTestCase@3d99d22e]" name="setUP" is-config="true" duration-ms="19241" started-at="2022-09-29T17:01:23 IST" finished-at="2022-09-29T17:01:42 IST">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifySearchResultForPoloMen()[pri:0, instance:com.fasttrack22.ProductTestCase@3d99d22e]" name="verifySearchResultForPoloMen" duration-ms="47190" started-at="2022-09-29T17:01:42 IST" finished-at="2022-09-29T17:02:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchResultForPoloMen -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.fasttrack22.ProductTestCase@3d99d22e]" name="teardown" is-config="true" duration-ms="206" started-at="2022-09-29T17:02:29 IST" finished-at="2022-09-29T17:02:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.fasttrack22.ProductTestCase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.fasttrack22.ProductTestCase -->
+</testng-results>

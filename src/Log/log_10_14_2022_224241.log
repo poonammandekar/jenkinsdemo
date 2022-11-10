@@ -1,0 +1,6 @@
+2022-Oct-14 22:42:28,084 {main} com.fasttrack22.keywords.UIKeywords 
+ INFO  Chromebrowser is launched successfully.
+2022-Oct-14 22:42:33,770 {main} com.fasttrack22.keywords.UIKeywords 
+ INFO  https://www.myntra.com/ is launched
+2022-Oct-14 22:42:41,703 {main} com.fasttrack.pages.HomePage 
+ INFO  Clicked on Casual Shirts
